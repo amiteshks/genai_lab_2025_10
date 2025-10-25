@@ -1,0 +1,39 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore macOS and system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode and IDE settings
+.vscode/
+.idea/
+
+# Ignore logs and local configs
+*.log
+*.sqlite3
+*.db
+config.json
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore local environment overrides
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
