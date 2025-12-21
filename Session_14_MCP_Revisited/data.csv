@@ -1,0 +1,5 @@
+city,asset_type,price,price_per_sqft,cap_rate
+Palo Alto,Office,8200000,395,0.062
+Palo Alto,Office,9400000,410,0.058
+San Jose,Office,6100000,340,0.065
+San Francisco,Office,12000000,520,0.055
