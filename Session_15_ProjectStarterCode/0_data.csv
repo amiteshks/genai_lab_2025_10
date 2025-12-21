@@ -1,0 +1,6 @@
+id,city,property_type,price_per_sqft,size_sqft
+1,San Francisco,office,55,12000
+2,San Francisco,office,42,9000
+3,San Jose,warehouse,28,20000
+4,Oakland,warehouse,22,18000
+5,San Mateo,office,48,10000
